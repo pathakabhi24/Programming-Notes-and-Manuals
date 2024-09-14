@@ -1,4 +1,4 @@
-# Programming-Notes & Manuals
+# Programming Notes and Manuals
 
 # 📚 Notes and Manuals Repository
 
